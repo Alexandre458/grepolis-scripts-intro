@@ -43,13 +43,13 @@ header.hero {
 }
 
 .scripts-section {
-    background: url('../assets/images/back-meio.png') center top no-repeat;
+    background: url('https://raw.githubusercontent.com/Alexandre458/grepolis-scripts-intro/main/assets/images/back-meio.png') center top no-repeat;
     background-size: cover;
     padding: 50px 0;
 }
 
 #scripts {
-    background-color: rgba(0, 0, 0, 0.5); /* Adicione um fundo escuro para melhor contraste */
+    background-color: rgba(0, 0, 0, 0.5); /* Adicionar um fundo escuro para melhor contraste */
 }
 
 #scripts h2 {
