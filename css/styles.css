@@ -43,7 +43,7 @@ header.hero {
 }
 
 .scripts-section {
-    background: url('assets/images/back-meio.png') center top no-repeat;
+    background: url('../assets/images/back-meio.png') center top no-repeat;
     background-size: cover;
     padding: 50px 0;
 }
