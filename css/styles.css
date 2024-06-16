@@ -7,8 +7,9 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    background-color: #f8f9fa;
+    line-height: 1.4;
+	background-image: url('https://wallpapercave.com/wp/WrbocU4.jpg');
+	background-size: cover;
     color: #333;
 }
 
@@ -88,7 +89,7 @@ header.hero {
 
 .btn {
     display: inline-block;
-    background-color: #0f4c75;
+    background-color: #0f4ccc;
     color: #fff;
     text-decoration: none;
     padding: 10px 20px;
